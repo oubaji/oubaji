@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uroobah Ovais</h1>
-<h3 align="center">I am a versatile and dedicated professional with a strong foundation in both graphic design and software development. With hands-on experience in graphics design and proficiency in tools like Photoshop, I excel at creating visually appealing and user-friendly interfaces. In addition to design, I have a solid technical background in frontend development using Flutter, and I am skilled in C++, C, Dart, and SQL, which allows me to contribute effectively to both the design and development phases of projects.</h3>
+<h3 align="center">I am a versatile and dedicated professional with a strong foundation in graphic design. With hands-on experience in graphics design and proficiency in tools like Photoshop, I excel at creating visually appealing and user-friendly interfaces. In addition to design, I have a solid technical background in frontend development using Flutter, and I am skilled in C++, C, Dart, and SQL, which allows me to contribute effectively to both the design and development phases of projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oubaji&label=Profile%20views&color=0e75b6&style=flat" alt="oubaji" /> </p>
 
@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/uroobah ovais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uroobah ovais" height="30" width="40" /></a>
-<a href="https://fb.com/uroobah ovais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uroobah ovais" height="30" width="40" /></a>
-<a href="https://instagram.com/itz.ou_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.ou_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/uroobah-ovais-39736131a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uroobah-ovais-39736131a/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61554270351829&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61554270351829&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/itz.ou_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itz.ou_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
